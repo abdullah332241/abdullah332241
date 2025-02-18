@@ -6,10 +6,9 @@ Currently, I am focusing on learning Data Analysis to enhance my technical skill
 
 My main tools and technologies include:
 
-Python 🐍 (for various applications)
-Microsoft Software Suite 💻 (Excel, Power BI, etc.)
-
-SQL 🛢 (for database management and querying)
+Python 🐍 (for various applications) ,
+Microsoft Software Suite 💻 (Excel, Power BI, etc.) ,
+SQL 🛢 (for database management and querying) 
 
 📫 How to reach me? I currently have no public contact method.
 
