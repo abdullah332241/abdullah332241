@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @abdullah332241
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+Hi, I'm Abdullah Aljarbo!
 
-<!---
-abdullah332241/abdullah332241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about Data Analysis, Automation, and Artificial Intelligence. 
+
+Currently, I am focusing on learning Data Analysis to enhance my technical skills.
+
+My main tools and technologies include:
+
+Python 🐍 (for various applications)
+Microsoft Software Suite 💻 (Excel, Power BI, etc.)
+SQL 🛢 (for database management and querying)
+
+📫 How to reach me? I currently have no public contact method.
+
+🚀 I am eager to explore new opportunities and continuously improve my skills!
